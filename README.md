@@ -2,10 +2,13 @@
   🚀 Desafio Ally HUB
 </h1>
 <h1 align="center"> 
+
  Descrição
  </h1>
+
   <p>Foi realizado o desafio solicitado pela empresa Ally HUB, projeto responsivo, adaptando aos diferentes tamanhos de tela.</p>
-  <h1>  💊💊 Technologies </h1>
+  <h4>Deploy do projeto:</h4>
+https://desafio-estagio-opal.vercel.app/  <h1>  💊💊 Technologies </h1>
 
 - [ReactJS](https://https://reactjs.org/)
 - [TailwindCSS](https://tailwindcss.com/)
